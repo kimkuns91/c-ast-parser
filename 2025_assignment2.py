@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-2025_assignment2.py
-C 코드의 AST를 생성하고 printf() 함수의 결과를 계산하는 프로그램
-외부 라이브러리 없이 구현 (sys만 사용)
-"""
-
 import sys
 class CToken:
     """C 언어 토큰 클래스"""
